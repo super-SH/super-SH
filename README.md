@@ -1,14 +1,8 @@
-# Hi there! 👋, I'm Swam Htet.
+# Hi there! 👋, 
 
 ### About Me
 
-- 🔥 Young & dynamic
-- 🚀 Energetic & passionate
-- 💡 Adaptable & innovative
-- 🎯 Problem solver
-- 👥 Collaborative
-- 💪 Self-motivated
-- 🌟 And more
+-  I'm Swam Htet.
 -  That's all I have to say about that.
 
 ### 📫 Get in touch
